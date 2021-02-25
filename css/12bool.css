@@ -151,6 +151,11 @@
     .col-lg-offset-11 {
         margin-left: calc( ( 100% / 12 ) * 11 );
     }
+
+    /* HIDDEN */
+    .col-lg-hidden {
+        display: none;
+    }
 }
 
 
@@ -251,6 +256,11 @@
     .col-md-offset-11 {
         margin-left: calc( ( 100% / 12 ) * 11 );
     }
+
+    /* HIDDEN */
+    .col-md-hidden {
+        display: none;
+    }
 }
 
 
@@ -349,5 +359,10 @@
 
     .col-xs-offset-11 {
         margin-left: calc( ( 100% / 12 ) * 11 );
+    }
+
+    /* HIDDEN */
+    .col-xs-hidden {
+        display: none;
     }
 }
